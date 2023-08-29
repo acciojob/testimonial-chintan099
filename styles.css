@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.main{
+	background-color:#f5f5f5;
+		padding:20px;
+}
+.box1, .box2{
+	background-color:white;
+	padding:5px;
+}
+
+#auther{
+	text-align:right;
+}
